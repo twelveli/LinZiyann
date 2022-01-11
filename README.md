@@ -1,2 +1,0 @@
-# LinZiyan
-code
